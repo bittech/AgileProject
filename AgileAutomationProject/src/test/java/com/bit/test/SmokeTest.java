@@ -8,6 +8,7 @@ public class SmokeTest {
 	public void test1()
 	{
 		System.out.println("Test");
+		System.out.println("test2");
 	}
 
 }
